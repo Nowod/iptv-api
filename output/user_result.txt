@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-01 18:26:45,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-03-02 06:30:47,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -54,14 +54,24 @@ CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 CCTV-17,http://php.jdshipin.com:8880/cqyx.php?id=CCTV17HD
 CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
+CETV1,http://120.55.49.231:3095/rtp/233.50.201.75:5140
 CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
 CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7158332927312639
 浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
 浙江卫视,http://php.jdshipin.com:8880/cqyx.php?id=ZHEJIANGHD
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
@@ -109,7 +119,6 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 山东卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHANDONGHD
 山西卫视,http://php.jdshipin.com:8880/cqyx.php?id=SHANXISD
 陕西卫视,http://tvbox6.icu/tv/migu.php?id=sxws
-陕西卫视,http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 四川卫视,http://php.jdshipin.com:8880/cqyx.php?id=SICHUANHD
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
@@ -129,8 +138,7 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 山东新闻,http://139.129.231.228:50060/rtp/239.21.1.140:5002
 山东国际,http://139.129.231.228:50060/rtp/239.21.1.61:5002
 山东国际,http://139.129.231.228/rtp/239.21.1.61:5002
-山东教育,http://120.238.94.10:9901/tsfile/live/1062_1.m3u8
-山东教育,http://3501776.xyz:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
+山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 山东农科,http://139.129.231.228:50060/rtp/239.21.1.183:5002
 山东农科,http://139.129.231.228/rtp/239.21.1.183:5002
 山东齐鲁,http://139.129.231.228:50060/rtp/239.21.1.134:5002
@@ -165,6 +173,7 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+三立台湾,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
@@ -175,3 +184,11 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://stream.qhbtv.com/adws/sd/live.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7158332927312639
