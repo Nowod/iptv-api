@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-03-04 18:28:36,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-03-05 06:32:03,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
-CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-2,http://php.jdshipin.com:8880/cqyx.php?id=CCTV2HD
 CCTV-2,http://goo.bkpcp.top/mg/CCTV2
@@ -54,9 +54,13 @@ CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 CCTV-17,http://php.jdshipin.com:8880/cqyx.php?id=CCTV17HD
 CCTV-17,http://tvbox6.icu/tv/migu.php?id=cctv17
+CETV1,http://120.55.49.231:3095/rtp/233.50.201.75:5140
 CETV1,http://139.129.231.228:3529/rtp/239.21.2.7:5002
+CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
 CETV2,http://139.129.231.228:3529/rtp/239.21.2.8:5002
+CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 CETV4,http://139.129.231.228:3529/rtp/239.21.1.222:5002
 
 📡卫视频道,#genre#
@@ -70,8 +74,7 @@ CETV4,http://139.129.231.228:3529/rtp/239.21.1.222:5002
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7158332927312639
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
-浙江卫视,http://php.jdshipin.com:8880/cqyx.php?id=ZHEJIANGHD
+浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
 湖南卫视,http://php.jdshipin.com:8880/cqyx.php?id=HUNANHD
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
@@ -136,14 +139,13 @@ CETV4,http://139.129.231.228:3529/rtp/239.21.1.222:5002
 山东新闻,http://139.129.231.228:50060/rtp/239.21.1.140:5002
 山东国际,http://139.129.231.228:50060/rtp/239.21.1.61:5002
 山东国际,http://139.129.231.228/rtp/239.21.1.61:5002
-山东教育,http://home.wwang.pw:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
+山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 山东农科,http://139.129.231.228:50060/rtp/239.21.1.183:5002
 山东农科,http://139.129.231.228/rtp/239.21.1.183:5002
-山东农科,http://139.129.231.228:3529/rtp/239.21.1.183:5002
 山东齐鲁,http://139.129.231.228:50060/rtp/239.21.1.134:5002
 山东生活,http://139.129.231.228:50060/rtp/239.21.1.175:5002
 山东体育,http://139.129.231.228:50060/rtp/239.21.1.141:5002
-山东体育,http://123.129.70.178:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育,http://111.14.181.15:9901/tsfile/live/1022_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 山东文旅,http://139.129.231.228:50060/rtp/239.21.1.176:5002
 山东综艺,http://139.129.231.228:50060/rtp/239.21.1.177:5002
 
@@ -172,6 +174,7 @@ CETV4,http://139.129.231.228:3529/rtp/239.21.1.222:5002
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+三立台湾,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
