@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-13 06:33:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-04-13 18:29:45,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -30,8 +30,6 @@ CCTV-5+,http://8.138.7.223/tv/mgitv.php?id=26
 CCTV-5+,http://8.138.7.223/tv/mgitv.php?id=27
 CCTV-5+,http://8.138.7.223/tv/mgitv.php?id=28
 CCTV-5+,http://8.138.7.223/tv/mgitv.php?id=29
-CCTV-5+,http://221.226.4.10:9901/tsfile/live/0005_1.m3u8
-CCTV-5+,http://ms.fxim.net:808/hls/13/index.m3u8
 CCTV-6,http://8.138.7.223/tv/dl/douyincdn.php?id=6
 CCTV-6,http://8.138.7.223/tv/dl/careryun.php?id=9
 CCTV-6,http://8.138.7.223/tv/mgitv.php?id=30
@@ -106,17 +104,14 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 湖北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057
 黑龙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056
 安徽卫视,http://8.138.7.223/tv/dl/careryun.php?id=26
-安徽卫视,http://221.226.4.10:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://ms.fxim.net:808/hls/18/index.m3u8
+安徽卫视,http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
 重庆卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010053
 东方卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010054
 东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096
 甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
 广西卫视,http://8.138.7.223/tv/dl/careryun.php?id=40
-广西卫视,http://221.226.4.10:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
 贵州卫视,http://8.138.7.223/tv/dl/careryun.php?id=39
-贵州卫视,http://221.226.4.10:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://175.31.21.146:4480/hls/42/index.m3u8
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083
 河北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101
@@ -125,8 +120,7 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 江苏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059
 江西卫视,http://php.jdshipin.com:8880/jxtv2.php?id=1
 辽宁卫视,http://8.138.7.223/tv/dl/careryun.php?id=36
-辽宁卫视,http://221.226.4.10:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://ms.fxim.net:808/hls/24/index.m3u8
+辽宁卫视,http://175.31.21.146:4480/hls/25/index.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
@@ -138,22 +132,17 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113
 四川卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=27
 四川卫视,http://8.138.7.223/tv/dl/careryun.php?id=35
-四川卫视,http://221.226.4.10:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://36.32.174.67:60080/newlive/live/hls/29/live.m3u8
-四川卫视,http://ms.fxim.net:808/hls/20/index.m3u8
+四川卫视,http://175.31.21.146:4480/hls/45/index.m3u8
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
-三沙卫视,http://36.105.100.208:35455/itv/5000000011000288016.m3u8?cdn=bestzb
+三沙卫视,http://47.122.125.40:6666/hls/sstv.m3u8
 三沙卫视,https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=626783981743357501
 天津卫视,http://8.138.7.223/tv/dl/careryun.php?id=43
-天津卫视,http://221.226.4.10:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://36.32.174.67:60080/newlive/live/hls/26/live.m3u8
-天津卫视,http://ms.fxim.net:808/hls/21/index.m3u8
+天津卫视,http://175.31.21.146:4480/hls/21/index.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 新疆卫视,http://8.138.7.223/tv/dl/careryun.php?id=46
-新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+新疆卫视,http://113.140.12.230:8888/newlive/live/hls/35/live.m3u8
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 
 📡山东频道,#genre#
@@ -161,17 +150,15 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 山东新闻,http://ls.qingting.fm/live/60180.m3u8
 山东国际,http://139.129.231.228/rtp/239.21.1.61:5002
 山东国际,http://139.129.231.228:50060/rtp/239.21.1.61:5002
-山东国际,http://139.129.231.228:3529/rtp/239.21.1.61:5002
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
+山东教育,https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 山东农科,http://139.129.231.228:50060/rtp/239.21.1.183:5002
 山东齐鲁,http://139.129.231.228:50060/rtp/239.21.1.134:5002
 山东生活,http://ls.qingting.fm/live/60260.m3u8
-山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,http://live.xmcdn.com/live/805/64.m3u8
 山东文旅,http://139.129.231.228:50060/rtp/239.21.1.176:5002
 山东综艺,http://139.129.231.228/rtp/239.21.1.177:5002
 山东综艺,http://139.129.231.228:50060/rtp/239.21.1.177:5002
-山东综艺,http://139.129.231.228:3529/rtp/239.21.1.177:5002
 
 📡青岛频道,#genre#
 
