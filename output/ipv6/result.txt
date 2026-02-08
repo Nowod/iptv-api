@@ -1,6 +1,3 @@
-🕘️更新时间,#genre#
-2026-02-08 21:04:44,https://migu.188766.xyz/?migutoken=8961ff8db28d44185bbc469363050e43&id=CCTV1&type=yy
-
 📺央视频道,#genre#
 CCTV-1,https://migu.188766.xyz/?migutoken=8961ff8db28d44185bbc469363050e43&id=CCTV1&type=yy
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
@@ -237,3 +234,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=dda9bfaf7e56c75d38da82f62c1bd19c&id=CE
 新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
 云南卫视,http://live.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb
 云南卫视,https://hls-gateway.vpstv.net/streams/708863.m3u8
+
+🕘️更新时间,#genre#
+2026-02-08 22:29:00,https://migu.188766.xyz/?migutoken=8961ff8db28d44185bbc469363050e43&id=CCTV1&type=yy
