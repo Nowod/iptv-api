@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-08 19:14:04,https://migu.188766.xyz/?migutoken=8961ff8db28d44185bbc469363050e43&id=CCTV1&type=yy
+2026-02-08 21:04:44,https://migu.188766.xyz/?migutoken=8961ff8db28d44185bbc469363050e43&id=CCTV1&type=yy
 
 📺央视频道,#genre#
 CCTV-1,https://migu.188766.xyz/?migutoken=8961ff8db28d44185bbc469363050e43&id=CCTV1&type=yy
@@ -122,15 +122,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=dda9bfaf7e56c75d38da82f62c1bd19c&id=CE
 广东卫视,https://migu.188766.xyz/?migutoken=721862d0d911f1d567653131947acfb3&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东卫视,https://migu.188766.xyz/?migutoken=1d70fc2f68eb382a164e1f128b5593fc&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
-香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
-香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
-香港卫视,https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8
-香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-7.m3u8
-香港卫视,https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv
-香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-11.m3u8
-香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-13.m3u8
-香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
 浙江卫视,https://migu.188766.xyz/?migutoken=e485161a2747be77d755dd37cb7265a0&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 浙江卫视,https://migu.188766.xyz/?migutoken=4f2cac7f47f3d90e97a5ca3bb64d0f25&id=z_jws&type=sz
 湖南卫视,https://migu.188766.xyz/?migutoken=16ff687d151c503c7c5db534b57686ae&id=hnws&type=sz
@@ -150,7 +141,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=dda9bfaf7e56c75d38da82f62c1bd19c&id=CE
 安徽卫视,http://3501776.xyz:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
 安徽卫视,http://lu.wqwqwq.sbs/itv/1000000005000265025.m3u8?cdn=ystenlive
 安徽卫视,https://hls-gateway.vpstv.net/streams/708868.m3u8
-安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi.m3u8
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,http://3501776.xyz:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 重庆卫视,http://lu.wqwqwq.sbs/itv/1000000005000265017.m3u8?cdn=ystenlive
@@ -161,8 +151,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=dda9bfaf7e56c75d38da82f62c1bd19c&id=CE
 东南卫视,http://lu.wqwqwq.sbs/itv/1000000005000265033.m3u8?cdn=ystenlive
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
-甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi.php
-甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-3.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
 广西卫视,https://hls-gateway.vpstv.net/streams/708864.m3u8
@@ -194,7 +182,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=dda9bfaf7e56c75d38da82f62c1bd19c&id=CE
 辽宁卫视,https://hls-gateway.vpstv.net/streams/708828.m3u8
 内蒙古卫视,https://migu.188766.xyz/?migutoken=9b2b2ea7b65eb1fb01d9e2e487ed454f&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
 内蒙古卫视,https://migu.188766.xyz/?migutoken=d72d0c3ad194ae6a473adf3be4040a83&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
-内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi.php
 宁夏卫视,https://migu.188766.xyz/?migutoken=e5ebdb498beb06d150da05595a961cbb&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
 宁夏卫视,https://migu.188766.xyz/?migutoken=41b01ed21047db161053ece39d6b925a&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
 青海卫视,https://migu.188766.xyz/?migutoken=498034b126f19c3de50143c43d9fd29c&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
@@ -207,14 +194,12 @@ CETV-4,https://migu.188766.xyz/?migutoken=dda9bfaf7e56c75d38da82f62c1bd19c&id=CE
 山东卫视,http://lu.wqwqwq.sbs/itv/1000000005000265019.m3u8?cdn=ystenlive
 山东卫视,https://hls-gateway.vpstv.net/streams/708860.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
 陕西卫视,https://migu.188766.xyz/?migutoken=dda8d66a87e73207f494ca59050e91ed&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 四川卫视,http://lu.wqwqwq.sbs/itv/5000000004000006119.m3u8?cdn=bestzb
 四川卫视,http://live.wqwqwq.sbs/itv/5000000004000006119.m3u8?cdn=bestzb
 四川卫视,https://hls-gateway.vpstv.net/streams/476917.m3u8
-四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-4.php
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
@@ -222,11 +207,10 @@ CETV-4,https://migu.188766.xyz/?migutoken=dda9bfaf7e56c75d38da82f62c1bd19c&id=CE
 深圳卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226313/index.m3u8
 深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.m3u8
 深圳卫视,http://3501776.xyz:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
 深圳卫视,http://lu.wqwqwq.sbs/itv/1000000005000265028.m3u8?cdn=ystenlive
+深圳卫视,https://hls-gateway.vpstv.net/streams/476913.m3u8
 三沙卫视,https://migu.188766.xyz/?migutoken=9f8e7826e5291edbf8e966a59c38e010&id=hn_ssws&type=sz
-三沙卫视,https://stream1.freetv.fun/2476872184d56573ae915237d8e3c990ded214446351f568b57889cbf63da2e8.m3u8
 三沙卫视,https://migu.188766.xyz/?migutoken=d8ddd0576c0bc222f8837fcea4b80769&id=hn_ssws&type=sz
 三沙卫视,https://migu.188766.xyz/?migutoken=053b95cc9854161ab2d3ec4a19a64762&id=hn_ssws&type=sz
 三沙卫视,https://migu.188766.xyz/?migutoken=cf6e7d6491238c29f6ea5395ef164794&id=hn_ssws&type=sz
@@ -243,7 +227,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=dda9bfaf7e56c75d38da82f62c1bd19c&id=CE
 天津卫视,http://live.wqwqwq.sbs/itv/5000000004000006827.m3u8?cdn=bestzb
 天津卫视,http://lu.wqwqwq.sbs/itv/1000000005000265026.m3u8?cdn=ystenlive
 天津卫视,http://cdn.jdshipin.com:8880/ysp.php?id=tjws
-西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-1.m3u8
 新疆卫视,http://goo.bkpcp.top/mg/xjws
 新疆卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
@@ -254,4 +237,3 @@ CETV-4,https://migu.188766.xyz/?migutoken=dda9bfaf7e56c75d38da82f62c1bd19c&id=CE
 新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
 云南卫视,http://live.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb
 云南卫视,https://hls-gateway.vpstv.net/streams/708863.m3u8
-云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8
