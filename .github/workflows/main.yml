@@ -11,9 +11,14 @@ name: 'Update schedule'
 
 on:
   workflow_dispatch:
+    branches:
+      - master
+  schedule:
+    - cron: '0 3 * * *'
 
 jobs:
   push:
+    if: github.repository_owner == 'Nowod'
     runs-on: ${{ matrix.operating-system }}
     strategy:
       matrix:
