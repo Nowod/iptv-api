@@ -2,6 +2,15 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 /udp/
-.php?
+.php
 .mp4
+]:
 bxtv.3a.ink
+event.pull.hebtv.com
+ldncctvwbcdcnc.v.wscdns.com
+jwplay.hebyun.com.cn
+iptv.huuc.edu.cn
+freetv
+goo.bkpcp.top
+wqwqwq.sbs
+vpstv.net
