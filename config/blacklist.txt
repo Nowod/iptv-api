@@ -4,7 +4,6 @@
 /udp/
 .php
 .mp4
-]:
 bxtv.3a.ink
 event.pull.hebtv.com
 ldncctvwbcdcnc.v.wscdns.com
@@ -14,3 +13,19 @@ freetv
 goo.bkpcp.top
 wqwqwq.sbs
 vpstv.net
+kcdnvip.com
+chinamobile.com
+ldcctvwbcdks.v.kcdnvip.com
+yunmei.tv
+cctvtxyh5c.liveplay.myqcloud.com
+3501776.xyz
+live.zohi.tv
+hls.gstv.com.cn
+mobilelive.gxtv.cn
+hlscdn.liangtv.cn
+hebtv.com
+tvpull.dxhmt.cn
+tvcdn.stream3.hndt.com
+m3u8.channel.wsrtv.com.cn
+live3.hnntv.cn
+tv.vtibet.cn
