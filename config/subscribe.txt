@@ -3,6 +3,7 @@
 
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u
 https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u
+https://live.hacks.tools/tv/ipv4/categories/春晚频道.m3u
 https://bc.188766.xyz/?ip=
 https://d.h6room.com/frjzb.txt
 https://epg.pw/test_channels.m3u
@@ -10,35 +11,35 @@ http://43.251.226.89:8080/live.txt
 https://develop202.github.io/migu_video/interface.txt
 
 # By Github
-# Warning-1: Guovin/iptv-api上游的kimwang1978/collect-txt源中部分卫视频道名称与内容不匹配
-# 不能直接使用Guovin/iptv-api，直接用上游源代替，同时kimwang1978/collect-txt仅选用央视源
+## Warning-1: Guovin/iptv-api上游kimwang1978/collect-txt中涉及43.251.226.89的频道存在污染
+## 不能直接使用Guovin/iptv-api源，直接用上游源代替，同时kimwang1978/collect-txt仅选用央视源
 https://iptv-org.github.io/iptv/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/专区/♪优质央视.txt
-# https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-# 存在类似不一致问题的还有，可能使用了相同的上游源
-# https://www.iyouhun.com/tv/zb
-# https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
+## https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+## 存在类似污染问题的源还有
+## https://www.iyouhun.com/tv/zb
+## https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
+## https://raw.githubusercontent.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt
 
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
 https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u
-https://raw.githubusercontent.com/Heiwk/YYL/refs/heads/master/output/YYLresult.txt
 https://raw.githubusercontent.com/kakaxi-1/zubo/refs/heads/main/IPTV.txt
 https://raw.githubusercontent.com/Hillock1968/iptv-api/refs/heads/master/output/user_result.txt
 https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt
-https://raw.githubusercontent.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt
 https://raw.githubusercontent.com/hupochun/iptv-api/refs/heads/master/output/result.txt
 https://ghfast.top/https://raw.githubusercontent.com/alenin-zhang/IPTV/main/lenin.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 
 # 低质量源
-# https://live.zbds.org/tv/iptv4.txt
-# https://live.zbds.top/tv/iptv4.txt
-# https://live.iptv-free.com/iptv/languages/zho.m3u
-# https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
+## https://live.zbds.org/tv/iptv4.txt
+## https://live.zbds.top/tv/iptv4.txt
+## https://live.iptv-free.com/iptv/languages/zho.m3u
+## https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
+## https://raw.githubusercontent.com/Heiwk/YYL/refs/heads/master/output/YYLresult.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
