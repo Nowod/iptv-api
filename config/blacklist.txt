@@ -1,9 +1,12 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
-
-# 音频源
-satellitepull.cnr.cn
-
-# 频道名称和实际频道不一致
+bxtv.3a.ink
+iptv.catvod.com
 43.251.226.89
+satellitepull.cnr.cn
+iptv.huuc.edu.cn
+wqwqwq.sbs
+hls.gstv.com.cn
+
+

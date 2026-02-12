@@ -1,6 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-# 公共源
+# 公共
 https://iptv-org.github.io/iptv/countries/cn.m3u
 https://www.iptv-free.com/language/Chinese
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u
@@ -11,19 +11,31 @@ https://live.zbds.org/tv/iptv4.txt
 https://live.zbds.top/tv/iptv4.txt
 https://epg.pw/test_channels.m3u
 https://www.iyouhun.com/tv/zb
-# 私人源
+http://43.251.226.89:8080/live.txt
+https://develop202.github.io/migu_video/interface.txt
+
+# 个人
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
-https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
 https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/专区/♪优质央视.txt
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/专区/♪优质卫视.txt
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx_lite.m3u
+https://raw.githubusercontent.com/Heiwk/YYL/refs/heads/master/output/YYLresult.txt
+https://raw.githubusercontent.com/kakaxi-1/zubo/refs/heads/main/IPTV.txt
+https://raw.githubusercontent.com/Hillock1968/iptv-api/refs/heads/master/output/user_result.txt
+https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt
+https://raw.githubusercontent.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt
+https://raw.githubusercontent.com/hupochun/iptv-api/refs/heads/master/output/result.txt
+https://ghfast.top/https://raw.githubusercontent.com/alenin-zhang/IPTV/main/lenin.txt
+https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
-https://develop202.github.io/migu_video/interface.txt
-# 录播源
+
+# 录播
 https://live.hacks.tools/tv/ipv4/categories/春晚频道.m3u
 
 [WHITELIST]
