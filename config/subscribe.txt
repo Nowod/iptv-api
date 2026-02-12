@@ -11,30 +11,35 @@ http://43.251.226.89:8080/live.txt
 https://develop202.github.io/migu_video/interface.txt
 
 # By Github
-## Warning-1: Guovin/iptv-api上游kimwang1978/collect-txt中涉及43.251.226.89的频道存在污染
-## 不能直接使用Guovin/iptv-api源，直接用上游源代替，同时kimwang1978/collect-txt仅选用央视源
 https://iptv-org.github.io/iptv/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/专区/♪优质央视.txt
-## https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-## 存在类似污染问题的源还有
-## https://www.iyouhun.com/tv/zb
-## https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
-## https://raw.githubusercontent.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt
-
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
 https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u
 https://raw.githubusercontent.com/kakaxi-1/zubo/refs/heads/main/IPTV.txt
 https://raw.githubusercontent.com/Hillock1968/iptv-api/refs/heads/master/output/user_result.txt
-https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt
-https://raw.githubusercontent.com/hupochun/iptv-api/refs/heads/master/output/result.txt
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt
 https://ghfast.top/https://raw.githubusercontent.com/alenin-zhang/IPTV/main/lenin.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 
-# 低质量源
+# 被污染的源
+## kimwang1978/collect-txt源存在污染，会导致名称和内容不一致
+## 按照上下游链查了很久，似乎都来自kimwang1978/collect-txt，关联的下游均存在该问题，包含Guovin/iptv-api
+## 该问题无法通过黑名单屏蔽，因为相同接口地址在其他源中也有正确的
+## kimwang1978/collect-txt中仅可使用♪优质央视.txt
+## https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+## 下游影响到的部分源
+## https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+## https://www.iyouhun.com/tv/zb
+## https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
+## https://raw.githubusercontent.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt
+# https://raw.githubusercontent.com/hupochun/iptv-api/refs/heads/master/output/result.txt
+# https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt
+
+# 低质的源
 ## https://live.zbds.org/tv/iptv4.txt
 ## https://live.zbds.top/tv/iptv4.txt
 ## https://live.iptv-free.com/iptv/languages/zho.m3u
