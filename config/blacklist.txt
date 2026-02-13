@@ -13,17 +13,6 @@ satellitepull.cnr.cn
 txmov2.a.kwimgs.com/upic
 txmov2.a.kwimgs.com/bs3
 
-# 无法播放
-iptv.huuc.edu.cn
-wqwqwq.sbs
-hls.gstv.com.cn
-120.76.248.139
-27.9.111.162
-113.92.158.131
-113.92.199.122
-live1-fuyun.fjtv.net
-106.115.27.195
-
 # 账户错误
 110.42.37.69
 
@@ -33,3 +22,15 @@ live1-fuyun.fjtv.net
 # 名称与内容不一致
 cd-live-stream.news.cctvplus.com
 bp-resource-dfl.bestv.cn
+
+# 无法播放
+iptv.huuc.edu.cn
+wqwqwq.sbs
+hls.gstv.com.cn
+live1-fuyun.fjtv.net
+120.76.248.139
+27.9.111.162
+113.92.158.131
+113.92.199.122
+106.115.27.195
+114.241.91.20
