@@ -1,55 +1,55 @@
-Category: 央视频道, Name: CCTV-1, Total: 127, Valid: 75, Valid Percent: 59.06%, IPv4: 127, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.12 M/s, Avg Speed: 0.37 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-2, Total: 109, Valid: 68, Valid Percent: 62.39%, IPv4: 109, IPv6: 0, Min Delay: 209 ms, Max Speed: 1.23 M/s, Avg Speed: 0.36 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-3, Total: 101, Valid: 64, Valid Percent: 63.37%, IPv4: 101, IPv6: 0, Min Delay: 208 ms, Max Speed: 1.13 M/s, Avg Speed: 0.35 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-4, Total: 108, Valid: 69, Valid Percent: 63.89%, IPv4: 108, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.33 M/s, Avg Speed: 0.35 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-5, Total: 118, Valid: 69, Valid Percent: 58.47%, IPv4: 118, IPv6: 0, Min Delay: 208 ms, Max Speed: 1.27 M/s, Avg Speed: 0.40 M/s, Max Resolution: 4142x3320
-Category: 央视频道, Name: CCTV-5+, Total: 93, Valid: 54, Valid Percent: 58.06%, IPv4: 93, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.37 M/s, Avg Speed: 0.40 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-6, Total: 107, Valid: 63, Valid Percent: 58.88%, IPv4: 107, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.10 M/s, Avg Speed: 0.39 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-7, Total: 107, Valid: 63, Valid Percent: 58.88%, IPv4: 107, IPv6: 0, Min Delay: 211 ms, Max Speed: 0.93 M/s, Avg Speed: 0.28 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-8, Total: 104, Valid: 57, Valid Percent: 54.81%, IPv4: 104, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.27 M/s, Avg Speed: 0.41 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-9, Total: 102, Valid: 63, Valid Percent: 61.76%, IPv4: 102, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.00 M/s, Avg Speed: 0.32 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-10, Total: 105, Valid: 64, Valid Percent: 60.95%, IPv4: 105, IPv6: 0, Min Delay: 209 ms, Max Speed: 1.11 M/s, Avg Speed: 0.35 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-11, Total: 94, Valid: 56, Valid Percent: 59.57%, IPv4: 94, IPv6: 0, Min Delay: 378 ms, Max Speed: 1.21 M/s, Avg Speed: 0.33 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-12, Total: 106, Valid: 69, Valid Percent: 65.09%, IPv4: 106, IPv6: 0, Min Delay: 375 ms, Max Speed: 0.93 M/s, Avg Speed: 0.36 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-13, Total: 97, Valid: 64, Valid Percent: 65.98%, IPv4: 97, IPv6: 0, Min Delay: 209 ms, Max Speed: 1.18 M/s, Avg Speed: 0.36 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-14, Total: 108, Valid: 66, Valid Percent: 61.11%, IPv4: 108, IPv6: 0, Min Delay: 209 ms, Max Speed: 1.32 M/s, Avg Speed: 0.34 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-15, Total: 91, Valid: 56, Valid Percent: 61.54%, IPv4: 91, IPv6: 0, Min Delay: 209 ms, Max Speed: 0.97 M/s, Avg Speed: 0.32 M/s, Max Resolution: 1920x1080
-Category: 央视频道, Name: CCTV-16, Total: 96, Valid: 50, Valid Percent: 52.08%, IPv4: 96, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.24 M/s, Avg Speed: 0.36 M/s, Max Resolution: 3840x2160
-Category: 央视频道, Name: CCTV-17, Total: 92, Valid: 56, Valid Percent: 60.87%, IPv4: 92, IPv6: 0, Min Delay: 210 ms, Max Speed: 0.93 M/s, Avg Speed: 0.34 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 广东卫视, Total: 156, Valid: 85, Valid Percent: 54.49%, IPv4: 156, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.68 M/s, Avg Speed: 0.41 M/s, Max Resolution: 3840x2160
-Category: 卫视频道, Name: 浙江卫视, Total: 164, Valid: 90, Valid Percent: 54.88%, IPv4: 164, IPv6: 0, Min Delay: 209 ms, Max Speed: 1.83 M/s, Avg Speed: 0.41 M/s, Max Resolution: 3840x2160
-Category: 卫视频道, Name: 湖南卫视, Total: 155, Valid: 89, Valid Percent: 57.42%, IPv4: 155, IPv6: 0, Min Delay: 209 ms, Max Speed: 1.40 M/s, Avg Speed: 0.40 M/s, Max Resolution: 3840x2160
-Category: 卫视频道, Name: 北京卫视, Total: 133, Valid: 90, Valid Percent: 67.67%, IPv4: 133, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.18 M/s, Avg Speed: 0.34 M/s, Max Resolution: 3840x2160
-Category: 卫视频道, Name: 湖北卫视, Total: 109, Valid: 63, Valid Percent: 57.80%, IPv4: 109, IPv6: 0, Min Delay: 208 ms, Max Speed: 0.88 M/s, Avg Speed: 0.34 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 黑龙江卫视, Total: 99, Valid: 63, Valid Percent: 63.64%, IPv4: 99, IPv6: 0, Min Delay: 388 ms, Max Speed: 1.01 M/s, Avg Speed: 0.36 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 安徽卫视, Total: 105, Valid: 62, Valid Percent: 59.05%, IPv4: 105, IPv6: 0, Min Delay: 216 ms, Max Speed: 0.94 M/s, Avg Speed: 0.33 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 重庆卫视, Total: 98, Valid: 60, Valid Percent: 61.22%, IPv4: 98, IPv6: 0, Min Delay: 212 ms, Max Speed: 0.89 M/s, Avg Speed: 0.35 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 东方卫视, Total: 118, Valid: 73, Valid Percent: 61.86%, IPv4: 118, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.63 M/s, Avg Speed: 0.40 M/s, Max Resolution: 3840x2160
-Category: 卫视频道, Name: 东南卫视, Total: 94, Valid: 62, Valid Percent: 65.96%, IPv4: 94, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.29 M/s, Avg Speed: 0.39 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 甘肃卫视, Total: 74, Valid: 39, Valid Percent: 52.70%, IPv4: 74, IPv6: 0, Min Delay: 208 ms, Max Speed: 0.93 M/s, Avg Speed: 0.37 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 广西卫视, Total: 77, Valid: 41, Valid Percent: 53.25%, IPv4: 77, IPv6: 0, Min Delay: 211 ms, Max Speed: 0.88 M/s, Avg Speed: 0.34 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 贵州卫视, Total: 92, Valid: 57, Valid Percent: 61.96%, IPv4: 92, IPv6: 0, Min Delay: 209 ms, Max Speed: 0.96 M/s, Avg Speed: 0.38 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 海南卫视, Total: 88, Valid: 50, Valid Percent: 56.82%, IPv4: 88, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.65 M/s, Avg Speed: 0.35 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 河北卫视, Total: 95, Valid: 63, Valid Percent: 66.32%, IPv4: 95, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.07 M/s, Avg Speed: 0.35 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 河南卫视, Total: 94, Valid: 58, Valid Percent: 61.70%, IPv4: 94, IPv6: 0, Min Delay: 113 ms, Max Speed: 6.39 M/s, Avg Speed: 0.51 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 吉林卫视, Total: 89, Valid: 46, Valid Percent: 51.69%, IPv4: 89, IPv6: 0, Min Delay: 209 ms, Max Speed: 0.93 M/s, Avg Speed: 0.39 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 江苏卫视, Total: 146, Valid: 77, Valid Percent: 52.74%, IPv4: 146, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.28 M/s, Avg Speed: 0.38 M/s, Max Resolution: 3840x2160
-Category: 卫视频道, Name: 江西卫视, Total: 113, Valid: 58, Valid Percent: 51.33%, IPv4: 113, IPv6: 0, Min Delay: 209 ms, Max Speed: 1.35 M/s, Avg Speed: 0.35 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 辽宁卫视, Total: 113, Valid: 62, Valid Percent: 54.87%, IPv4: 113, IPv6: 0, Min Delay: 208 ms, Max Speed: 1.55 M/s, Avg Speed: 0.41 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 内蒙古卫视, Total: 45, Valid: 22, Valid Percent: 48.89%, IPv4: 45, IPv6: 0, Min Delay: 208 ms, Max Speed: 0.65 M/s, Avg Speed: 0.22 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 宁夏卫视, Total: 58, Valid: 23, Valid Percent: 39.66%, IPv4: 58, IPv6: 0, Min Delay: 212 ms, Max Speed: 0.92 M/s, Avg Speed: 0.35 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 青海卫视, Total: 57, Valid: 26, Valid Percent: 45.61%, IPv4: 57, IPv6: 0, Min Delay: 210 ms, Max Speed: 0.91 M/s, Avg Speed: 0.29 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 山东卫视, Total: 143, Valid: 83, Valid Percent: 58.04%, IPv4: 143, IPv6: 0, Min Delay: 385 ms, Max Speed: 1.36 M/s, Avg Speed: 0.38 M/s, Max Resolution: 3840x2160
-Category: 卫视频道, Name: 山西卫视, Total: 43, Valid: 24, Valid Percent: 55.81%, IPv4: 43, IPv6: 0, Min Delay: 376 ms, Max Speed: 1.30 M/s, Avg Speed: 0.31 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 陕西卫视, Total: 45, Valid: 22, Valid Percent: 48.89%, IPv4: 45, IPv6: 0, Min Delay: 383 ms, Max Speed: 0.67 M/s, Avg Speed: 0.27 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 四川卫视, Total: 133, Valid: 81, Valid Percent: 60.90%, IPv4: 133, IPv6: 0, Min Delay: 211 ms, Max Speed: 1.96 M/s, Avg Speed: 0.36 M/s, Max Resolution: 3840x2160
-Category: 卫视频道, Name: 深圳卫视, Total: 139, Valid: 76, Valid Percent: 54.68%, IPv4: 139, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.90 M/s, Avg Speed: 0.33 M/s, Max Resolution: 3840x2160
-Category: 卫视频道, Name: 三沙卫视, Total: 49, Valid: 29, Valid Percent: 59.18%, IPv4: 49, IPv6: 0, Min Delay: 372 ms, Max Speed: 0.81 M/s, Avg Speed: 0.28 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 天津卫视, Total: 113, Valid: 63, Valid Percent: 55.75%, IPv4: 113, IPv6: 0, Min Delay: 229 ms, Max Speed: 0.93 M/s, Avg Speed: 0.38 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 西藏卫视, Total: 65, Valid: 30, Valid Percent: 46.15%, IPv4: 65, IPv6: 0, Min Delay: 210 ms, Max Speed: 0.92 M/s, Avg Speed: 0.28 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 新疆卫视, Total: 66, Valid: 30, Valid Percent: 45.45%, IPv4: 66, IPv6: 0, Min Delay: 210 ms, Max Speed: 1.29 M/s, Avg Speed: 0.32 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 海峡卫视, Total: 4, Valid: 2, Valid Percent: 50.00%, IPv4: 4, IPv6: 0, Min Delay: 1010 ms, Max Speed: 0.41 M/s, Avg Speed: 0.36 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 云南卫视, Total: 82, Valid: 40, Valid Percent: 48.78%, IPv4: 82, IPv6: 0, Min Delay: 209 ms, Max Speed: 0.97 M/s, Avg Speed: 0.34 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 厦门卫视, Total: 14, Valid: 5, Valid Percent: 35.71%, IPv4: 14, IPv6: 0, Min Delay: 434 ms, Max Speed: 0.25 M/s, Avg Speed: 0.15 M/s, Max Resolution: 1920x1080
-Category: 历年春晚, Name: 2024年春晚, Total: 1, Valid: 1, Valid Percent: 100.00%, IPv4: 1, IPv6: 0, Min Delay: 1637 ms, Max Speed: 0.28 M/s, Avg Speed: 0.28 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 兵团卫视, Total: 56, Valid: 30, Valid Percent: 53.57%, IPv4: 56, IPv6: 0, Min Delay: 210 ms, Max Speed: 0.97 M/s, Avg Speed: 0.31 M/s, Max Resolution: 1920x1080
+分类: 央视频道, 名称: CCTV-1, 总数: 149, 有效: 2, 有效率: 1.34%, IPv4: 149, IPv6: 0, 最小延迟: 242 ms, 最高速率: 1.23 M/s, 平均速率: 1.12 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-2, 总数: 127, 有效: 0, 有效率: 0.00%, IPv4: 127, IPv6: 0, 最小延迟: 229 ms, 最高速率: 0.97 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-3, 总数: 118, 有效: 1, 有效率: 0.85%, IPv4: 118, IPv6: 0, 最小延迟: 229 ms, 最高速率: 1.77 M/s, 平均速率: 1.77 M/s, 最高分辨率: 2493x5337
+分类: 央视频道, 名称: CCTV-4, 总数: 120, 有效: 0, 有效率: 0.00%, IPv4: 120, IPv6: 0, 最小延迟: 229 ms, 最高速率: 0.87 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-5, 总数: 134, 有效: 1, 有效率: 0.75%, IPv4: 134, IPv6: 0, 最小延迟: 230 ms, 最高速率: 1.63 M/s, 平均速率: 1.63 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-5+, 总数: 107, 有效: 2, 有效率: 1.87%, IPv4: 107, IPv6: 0, 最小延迟: 230 ms, 最高速率: 1.63 M/s, 平均速率: 1.54 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-6, 总数: 125, 有效: 1, 有效率: 0.80%, IPv4: 125, IPv6: 0, 最小延迟: 230 ms, 最高速率: 1.46 M/s, 平均速率: 1.46 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-7, 总数: 119, 有效: 0, 有效率: 0.00%, IPv4: 119, IPv6: 0, 最小延迟: 228 ms, 最高速率: 0.92 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-8, 总数: 121, 有效: 1, 有效率: 0.83%, IPv4: 121, IPv6: 0, 最小延迟: 229 ms, 最高速率: 1.80 M/s, 平均速率: 1.80 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-9, 总数: 118, 有效: 0, 有效率: 0.00%, IPv4: 118, IPv6: 0, 最小延迟: 229 ms, 最高速率: 0.98 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-10, 总数: 121, 有效: 0, 有效率: 0.00%, IPv4: 121, IPv6: 0, 最小延迟: 229 ms, 最高速率: 0.67 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-11, 总数: 110, 有效: 1, 有效率: 0.91%, IPv4: 110, IPv6: 0, 最小延迟: 229 ms, 最高速率: 1.72 M/s, 平均速率: 1.72 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-12, 总数: 121, 有效: 0, 有效率: 0.00%, IPv4: 121, IPv6: 0, 最小延迟: 229 ms, 最高速率: 0.91 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-13, 总数: 115, 有效: 1, 有效率: 0.87%, IPv4: 115, IPv6: 0, 最小延迟: 229 ms, 最高速率: 1.40 M/s, 平均速率: 1.40 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-14, 总数: 121, 有效: 0, 有效率: 0.00%, IPv4: 121, IPv6: 0, 最小延迟: 229 ms, 最高速率: 0.84 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-15, 总数: 107, 有效: 0, 有效率: 0.00%, IPv4: 107, IPv6: 0, 最小延迟: 229 ms, 最高速率: 0.90 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 央视频道, 名称: CCTV-16, 总数: 97, 有效: 1, 有效率: 1.03%, IPv4: 97, IPv6: 0, 最小延迟: 230 ms, 最高速率: 1.30 M/s, 平均速率: 1.30 M/s, 最高分辨率: 3840x2160
+分类: 央视频道, 名称: CCTV-17, 总数: 103, 有效: 1, 有效率: 0.97%, IPv4: 103, IPv6: 0, 最小延迟: 229 ms, 最高速率: 1.71 M/s, 平均速率: 1.71 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 广东卫视, 总数: 184, 有效: 0, 有效率: 0.00%, IPv4: 184, IPv6: 0, 最小延迟: 229 ms, 最高速率: 0.92 M/s, 平均速率: 0.00 M/s, 最高分辨率: 3840x2160
+分类: 卫视频道, 名称: 浙江卫视, 总数: 179, 有效: 0, 有效率: 0.00%, IPv4: 179, IPv6: 0, 最小延迟: 229 ms, 最高速率: 0.96 M/s, 平均速率: 0.00 M/s, 最高分辨率: 3840x2160
+分类: 卫视频道, 名称: 湖南卫视, 总数: 168, 有效: 1, 有效率: 0.60%, IPv4: 168, IPv6: 0, 最小延迟: 230 ms, 最高速率: 1.08 M/s, 平均速率: 1.08 M/s, 最高分辨率: 3840x2160
+分类: 卫视频道, 名称: 北京卫视, 总数: 154, 有效: 1, 有效率: 0.65%, IPv4: 154, IPv6: 0, 最小延迟: 229 ms, 最高速率: 1.18 M/s, 平均速率: 1.06 M/s, 最高分辨率: 3840x2160
+分类: 卫视频道, 名称: 湖北卫视, 总数: 125, 有效: 2, 有效率: 1.60%, IPv4: 125, IPv6: 0, 最小延迟: 231 ms, 最高速率: 1.43 M/s, 平均速率: 1.25 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 黑龙江卫视, 总数: 118, 有效: 1, 有效率: 0.85%, IPv4: 118, IPv6: 0, 最小延迟: 435 ms, 最高速率: 1.71 M/s, 平均速率: 1.71 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 安徽卫视, 总数: 120, 有效: 2, 有效率: 1.67%, IPv4: 120, IPv6: 0, 最小延迟: 196 ms, 最高速率: 1.62 M/s, 平均速率: 1.33 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 重庆卫视, 总数: 113, 有效: 1, 有效率: 0.88%, IPv4: 113, IPv6: 0, 最小延迟: 229 ms, 最高速率: 1.43 M/s, 平均速率: 1.43 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 东方卫视, 总数: 136, 有效: 0, 有效率: 0.00%, IPv4: 136, IPv6: 0, 最小延迟: 232 ms, 最高速率: 1.03 M/s, 平均速率: 0.00 M/s, 最高分辨率: 3840x2160
+分类: 卫视频道, 名称: 东南卫视, 总数: 107, 有效: 2, 有效率: 1.87%, IPv4: 107, IPv6: 0, 最小延迟: 230 ms, 最高速率: 1.39 M/s, 平均速率: 1.36 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 甘肃卫视, 总数: 90, 有效: 0, 有效率: 0.00%, IPv4: 90, IPv6: 0, 最小延迟: 232 ms, 最高速率: 0.88 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 广西卫视, 总数: 85, 有效: 0, 有效率: 0.00%, IPv4: 85, IPv6: 0, 最小延迟: 229 ms, 最高速率: 0.90 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 贵州卫视, 总数: 104, 有效: 0, 有效率: 0.00%, IPv4: 104, IPv6: 0, 最小延迟: 230 ms, 最高速率: 0.95 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 海南卫视, 总数: 98, 有效: 1, 有效率: 1.02%, IPv4: 98, IPv6: 0, 最小延迟: 230 ms, 最高速率: 1.67 M/s, 平均速率: 1.67 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 河北卫视, 总数: 108, 有效: 0, 有效率: 0.00%, IPv4: 108, IPv6: 0, 最小延迟: 230 ms, 最高速率: 0.89 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 河南卫视, 总数: 110, 有效: 3, 有效率: 2.73%, IPv4: 110, IPv6: 0, 最小延迟: 87 ms, 最高速率: 18.82 M/s, 平均速率: 7.09 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 吉林卫视, 总数: 101, 有效: 0, 有效率: 0.00%, IPv4: 101, IPv6: 0, 最小延迟: 230 ms, 最高速率: 0.92 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 江苏卫视, 总数: 160, 有效: 2, 有效率: 1.25%, IPv4: 160, IPv6: 0, 最小延迟: 229 ms, 最高速率: 1.66 M/s, 平均速率: 1.45 M/s, 最高分辨率: 3840x2160
+分类: 卫视频道, 名称: 江西卫视, 总数: 128, 有效: 2, 有效率: 1.56%, IPv4: 128, IPv6: 0, 最小延迟: 229 ms, 最高速率: 1.22 M/s, 平均速率: 1.13 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 辽宁卫视, 总数: 124, 有效: 0, 有效率: 0.00%, IPv4: 124, IPv6: 0, 最小延迟: 232 ms, 最高速率: 0.79 M/s, 平均速率: 0.00 M/s, 最高分辨率: 5237x7686
+分类: 卫视频道, 名称: 内蒙古卫视, 总数: 63, 有效: 0, 有效率: 0.00%, IPv4: 63, IPv6: 0, 最小延迟: 230 ms, 最高速率: 0.64 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 宁夏卫视, 总数: 75, 有效: 0, 有效率: 0.00%, IPv4: 75, IPv6: 0, 最小延迟: 233 ms, 最高速率: 0.91 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 青海卫视, 总数: 75, 有效: 0, 有效率: 0.00%, IPv4: 75, IPv6: 0, 最小延迟: 230 ms, 最高速率: 0.69 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 山东卫视, 总数: 156, 有效: 1, 有效率: 0.64%, IPv4: 156, IPv6: 0, 最小延迟: 349 ms, 最高速率: 1.05 M/s, 平均速率: 1.05 M/s, 最高分辨率: 4358x5664
+分类: 卫视频道, 名称: 山西卫视, 总数: 42, 有效: 0, 有效率: 0.00%, IPv4: 42, IPv6: 0, 最小延迟: 435 ms, 最高速率: 0.68 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 陕西卫视, 总数: 46, 有效: 0, 有效率: 0.00%, IPv4: 46, IPv6: 0, 最小延迟: 438 ms, 最高速率: 0.67 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 四川卫视, 总数: 145, 有效: 0, 有效率: 0.00%, IPv4: 145, IPv6: 0, 最小延迟: 231 ms, 最高速率: 0.95 M/s, 平均速率: 0.00 M/s, 最高分辨率: 3840x2160
+分类: 卫视频道, 名称: 深圳卫视, 总数: 154, 有效: 2, 有效率: 1.30%, IPv4: 154, IPv6: 0, 最小延迟: 230 ms, 最高速率: 1.28 M/s, 平均速率: 1.27 M/s, 最高分辨率: 3840x2160
+分类: 卫视频道, 名称: 三沙卫视, 总数: 58, 有效: 0, 有效率: 0.00%, IPv4: 58, IPv6: 0, 最小延迟: 433 ms, 最高速率: 0.73 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 天津卫视, 总数: 126, 有效: 1, 有效率: 0.79%, IPv4: 126, IPv6: 0, 最小延迟: 230 ms, 最高速率: 1.02 M/s, 平均速率: 1.02 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 西藏卫视, 总数: 77, 有效: 1, 有效率: 1.30%, IPv4: 77, IPv6: 0, 最小延迟: 236 ms, 最高速率: 1.01 M/s, 平均速率: 1.01 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 新疆卫视, 总数: 79, 有效: 1, 有效率: 1.27%, IPv4: 79, IPv6: 0, 最小延迟: 230 ms, 最高速率: 1.42 M/s, 平均速率: 1.42 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 云南卫视, 总数: 96, 有效: 0, 有效率: 0.00%, IPv4: 96, IPv6: 0, 最小延迟: 245 ms, 最高速率: 0.77 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 海峡卫视, 总数: 4, 有效: 0, 有效率: 0.00%, IPv4: 4, IPv6: 0, 最小延迟: 10645 ms, 最高速率: 0.09 M/s, 平均速率: 0.00 M/s, 最高分辨率: None
+分类: 卫视频道, 名称: 厦门卫视, 总数: 25, 有效: 0, 有效率: 0.00%, IPv4: 25, IPv6: 0, 最小延迟: 543 ms, 最高速率: 0.52 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 历年春晚, 名称: 2024年春晚, 总数: 1, 有效: 0, 有效率: 0.00%, IPv4: 1, IPv6: 0, 最小延迟: 2060 ms, 最高速率: 0.24 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
+分类: 卫视频道, 名称: 兵团卫视, 总数: 67, 有效: 0, 有效率: 0.00%, IPv4: 67, IPv6: 0, 最小延迟: 230 ms, 最高速率: 0.95 M/s, 平均速率: 0.00 M/s, 最高分辨率: 1920x1080
