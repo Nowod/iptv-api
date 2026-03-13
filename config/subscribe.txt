@@ -36,8 +36,8 @@ https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 ## https://www.iyouhun.com/tv/zb
 ## https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 ## https://raw.githubusercontent.com/fuxinyi0505/Ku9-IPTV-source/refs/heads/main/Ku9-IPTV-source.txt
-# https://raw.githubusercontent.com/hupochun/iptv-api/refs/heads/master/output/result.txt
-# https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt
+## https://raw.githubusercontent.com/hupochun/iptv-api/refs/heads/master/output/result.txt
+## https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt
 
 # 低质的源
 ## https://live.zbds.org/tv/iptv4.txt
