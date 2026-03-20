@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-03-20 01:52:34,http://120.76.248.139/live/bfgd/4200000488.m3u8
+2026-03-20 12:22:02,http://120.76.248.139/live/bfgd/4200000488.m3u8
 
 央视频道,#genre#
 CCTV-1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV-2,http://120.76.248.139/live/bfgd/4200000061.m3u8
-CCTV-10,http://120.76.248.139/live/bfgd/4200000129.m3u8
 CCTV-11,http://120.76.248.139/live/bfgd/4200000130.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 
