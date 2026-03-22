@@ -1,4 +1,24 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+
+# 引流&广告，这种最恶心
+iptv.catvod.com
+
+# 音频广播
 /audio/
+satellitepull.cnr.cn
+
+# 地址不存在或者返回错误
 bxtv.3a.ink
+iptv.huuc.edu.cn
+wqwqwq.sbs
+hls.gstv.com.cn
+
+# By alantang1977，挺乱的一个源
+## CCTV4K识别成CCTV4
+http://111.56.90.51/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
+## 视频，非直播节目
+http://223.95.198.3:8000/hls/2/index.m3u8
+http://111.56.90.5/000000000000/5000000002000020548/index.m3u8
+http://111.56.90.5/000000000000/5000000005000026715/index.m3u8
+http://111.56.90.5/000000000000/5000000006000040011/index.m3u8
