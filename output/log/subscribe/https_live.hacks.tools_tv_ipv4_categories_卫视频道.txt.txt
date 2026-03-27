@@ -3,15 +3,16 @@
 å®å¾½å«è§,http://183.11.239.36:808/hls/40/index.m3u8
 å®å¾½å«è§,http://120.76.248.139/live/bfgd/4200000096.m3u8
 å®å¾½å«è§,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8
-åäº¬å«è§,http://23.237.228.134/live3/beijing.m3u8
 åäº¬å«è§,http://58.57.40.22:9901/tsfile/live/1032_1.m3u8
 åäº¬å«è§,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+åäº¬å«è§,http://23.237.228.134/live3/beijing.m3u8
 åäº¬å«è§,http://124.116.183.146:9901/tsfile/live/0122_1.m3u8
 åäº¬å«è§,http://183.11.239.36:808/hls/41/index.m3u8
 åµå¢å«è§,http://183.11.239.36:808/hls/7/index.m3u8
 åµå¢å«è§,http://120.76.248.139/live/bfgd/4200000124.m3u8
-ä¸æ¹å«è§,http://223.105.252.8/PLTV/4/224/3221228150/index.m3u8
+åµå¢å«è§,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
 ä¸æ¹å«è§,http://58.57.40.22:9901/tsfile/live/1030_1.m3u8
+ä¸æ¹å«è§,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 ä¸æ¹å«è§,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
 ä¸æ¹å«è§,http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
 ä¸æ¹å«è§,http://183.11.239.36:808/hls/114/index.m3u8
@@ -95,13 +96,11 @@
 å®å¤å«è§,http://120.76.248.139/live/bfgd/4200000118.m3u8
 åæå«è§,http://120.76.248.139/live/bfgd/4200000122.m3u8
 åæå«è§,http://8.138.7.223/ãå¬ä¼å·ï¼æ¦´èçµè§ã/åæå«è§.m3u8
-åæå«è§,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
-åæå«è§,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 éæµ·å«è§,http://58.57.40.22:9901/tsfile/live/1057_1.m3u8
 éæµ·å«è§,http://120.76.248.139/live/bfgd/4200000111.m3u8
 éæµ·å«è§,http://123.130.84.106:8154/tsfile/live/0140_1.m3u8
 éæµ·å«è§,http://111.61.236.247:9081/hls/49/index.m3u8
-éæµ·å«è§,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+éæµ·å«è§,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
 ä¸æ²å«è§,https://srs.ssws.tv/video/sstv-10/index.m3u8
 ä¸æ²å«è§,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 å¦é¨å«è§,http://183.11.239.36:808/hls/17/index.m3u8
@@ -125,10 +124,10 @@
 åå·å«è§,http://120.76.248.139/live/bfgd/4200000103.m3u8
 åå·å«è§,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8
 å¤©æ´¥å«è§,http://58.57.40.22:9901/tsfile/live/1034_1.m3u8
-å¤©æ´¥å«è§,http://124.116.183.146:9901/tsfile/live/0135_1.m3u8
 å¤©æ´¥å«è§,http://183.11.239.36:808/hls/42/index.m3u8
 å¤©æ´¥å«è§,http://112.46.85.60:8009/hls/44/index.m3u8
 å¤©æ´¥å«è§,http://182.150.23.74:808/hls/27/index.m3u8
+å¤©æ´¥å«è§,http://123.130.84.106:8154/tsfile/live/0135_1.m3u8
 è¥¿èå«è§,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
 è¥¿èå«è§,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
 è¥¿èå«è§,http://183.11.239.36:808/hls/64/index.m3u8
@@ -137,7 +136,7 @@
 æ°çå«è§,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
 æ°çå«è§,http://120.76.248.139/live/bfgd/4200000150.m3u8
 æ°çå«è§,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
-æ°çå«è§,http://123.130.84.106:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+æ°çå«è§,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 å»¶è¾¹å«è§,http://120.76.248.139/live/bfgd/4200000117.m3u8
 å»¶è¾¹å«è§,http://gmxw.7766.org:808/hls/15/index.m3u8
 äºåå«è§,http://58.57.40.22:9901/tsfile/live/1047_1.m3u8
@@ -155,8 +154,8 @@
 éåºå«è§,http://124.116.183.146:9901/tsfile/live/0142_1.m3u8
 éåºå«è§,http://183.11.239.36:808/hls/53/index.m3u8
 éåºå«è§,http://120.76.248.139/live/bfgd/4200000107.m3u8
-ä¸æ¹å«è§,http://223.105.252.8/PLTV/4/224/3221228150/index.m3u8
 ä¸æ¹å«è§,http://58.57.40.22:9901/tsfile/live/1030_1.m3u8
+ä¸æ¹å«è§,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 ä¸æ¹å«è§,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
 ä¸æ¹å«è§,http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
 ä¸æ¹å«è§,http://183.11.239.36:808/hls/114/index.m3u8
@@ -174,4 +173,4 @@
 ä¸æ¹å«è§4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 åå·å«è§4K,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 èå·4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-UpdateTime: 2026-03-26 23:10:33
+UpdateTime: 2026-03-27 23:10:43
