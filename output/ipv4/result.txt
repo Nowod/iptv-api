@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-31 01:59:02,http://tv.sohu.blog/d/mg.php?id=608807420
+2026-04-01 02:00:52,http://tv.sohu.blog/d/mg.php?id=608807420
 
 央视频道,#genre#
 CCTV-1,http://tv.sohu.blog/d/mg.php?id=608807420
@@ -61,7 +61,7 @@ CCTV-11,http://tv.sohu.blog/d/mg.php?id=667987558
 CCTV-11,http://107.150.60.122/live/cctv11hd.m3u8
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-CCTV-11,http://69.30.246.194/live/cctv11.m3u8
+CCTV-11,http://111.56.90.5/000000000000/5000000011000031106/1.m3u8
 CCTV-12,http://tv.sohu.blog/d/mg.php?id=673168185
 CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
@@ -76,7 +76,7 @@ CCTV-14,http://tv.sohu.blog/d/mg.php?id=624878440
 CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-CCTV-14,http://69.30.246.194/live/cctv14.m3u8
+CCTV-14,http://111.56.90.5/000000000000/5000000004000006673/index.m3u8
 CCTV-15,http://tv.sohu.blog/d/mg.php?id=673168223
 CCTV-15,http://107.150.60.122/live/cctv15hd.m3u8
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
@@ -94,12 +94,13 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CCTV-17,http://111.56.90.5/000000000000/5000000011000288014/index.m3u8
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
-CCTV-4K,http://111.56.90.50/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
 CCTV-4K,http://111.56.90.48/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
+CCTV-4K,http://111.56.90.50/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
+CCTV-4K,http://223.95.198.3:8000/hls/18/index.m3u8
 
 卫视频道,#genre#
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东卫视,http://tv.sohu.blog/d/mg.php?id=608831231
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
@@ -107,7 +108,7 @@ CCTV-4K,http://111.56.90.48/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3
 浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
 浙江卫视,http://38.75.136.137:98/gslb/dsdqca/zjwshd.m3u8?auth=test20251009
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
-浙江卫视,https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
@@ -138,8 +139,8 @@ CCTV-4K,http://111.56.90.48/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://38.75.136.137:98/gslb/dsdqca/cqwshd.m3u8?auth=test20251009
 重庆卫视,http://111.56.90.5/000000000000/5000000004000025797/index.m3u8
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东方卫视,http://tv.sohu.blog/d/mg.php?id=651632648
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东方卫视,http://107.150.60.122/live/dfwshd.m3u8
 东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
@@ -147,7 +148,7 @@ CCTV-4K,http://111.56.90.48/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3
 东南卫视,http://107.150.60.122/live/dnwshd.m3u8
 东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 东南卫视,http://38.75.136.137:98/gslb/dsdqca/dnwshd.m3u8?auth=test20251009
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=447028171774900086
+东南卫视,http://111.56.90.5/000000000000/5000000001000005829/index.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,http://111.56.90.5/000000000000/5000000006000040021/index.m3u8
 甘肃卫视,http://111.56.90.5/000000000000/1000000002000017827/1.m3u8
@@ -183,8 +184,8 @@ CCTV-4K,http://111.56.90.48/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3
 吉林卫视,http://111.56.90.5/000000000000/1000000002000027730/index.m3u8
 吉林卫视,http://111.56.90.5/000000000000/1000000002000027730/1.m3u8
 吉林卫视,http://111.56.90.5/000000000000/5000000011000031117/1.m3u8
-江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4
 江苏卫视,http://tv.sohu.blog/d/mg.php?id=623899368
+江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
 江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
 江苏卫视,http://38.75.136.137:98/gslb/dsdqca/jswshd.m3u8?auth=test20251009
@@ -218,10 +219,12 @@ CCTV-4K,http://111.56.90.48/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3
 山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
 山东卫视,http://111.56.90.5/000000000000/5000000004000020424/index.m3u8
 山东卫视,http://111.56.90.5/000000000000/1000000005000265019/1.m3u8
+山西卫视,http://120.76.248.139/live/bfgd/4200000109.m3u8
 陕西卫视,http://tv.sohu.blog/d/mg.php?id=738910838
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+陕西卫视,http://120.76.248.139/live/bfgd/4200000512.m3u8
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 四川卫视,http://111.56.90.5/000000000000/5000000004000006119/index.m3u8
 四川卫视,http://111.56.90.5/000000000000/1000000002000016825/1.m3u8
@@ -235,6 +238,8 @@ CCTV-4K,http://111.56.90.48/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3
 三沙卫视,http://tv.sohu.blog/d/mg.php?id=961023778
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 三沙卫视,http://111.56.90.5/000000000000/5000000011000288016/1.m3u8
+三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=40ce8e7e766a97b9b5f39c4f54ea627c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+三沙卫视,https://live.264788.xyz/channel/sanshaweishi?streamid=3736894cc57bd68f5caf8e9554df851f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 天津卫视,http://tv.sohu.blog/d/fjbst.php?id=191
 天津卫视,http://107.150.60.122/live/tjwshd.m3u8
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
@@ -256,9 +261,15 @@ CCTV-4K,http://111.56.90.48/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3
 云南卫视,http://111.56.90.5/000000000000/5000000011000031120/1.m3u8
 云南卫视,http://111.56.90.5/000000000000/5000000006000040019/1.m3u8
 海峡卫视,http://tv.sohu.blog/d/mg.php?id=849119120
+海峡卫视,https://live.264788.xyz/channel/haixiaweishi?streamid=be23d18302e75af7b2388988938fa934&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+海峡卫视,https://live.264788.xyz/channel/haixiaweishi?streamid=52e5e5fac4d6b6e3631011c8ee8ee1ad&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+海峡卫视,https://live.264788.xyz/channel/haixiaweishi?streamid=f495ed8625aedd9e72c64fb11e6d68f2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+海峡卫视,https://live.264788.xyz/channel/haixiaweishi?streamid=f11f5897802881420f37cc2b50976510&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 厦门卫视,http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
 厦门卫视,http://111.56.90.5/000000000000/5084893189220221988/index.m3u8
 厦门卫视,http://111.56.90.5/000000000000/1000000005000266006/1.m3u8
+厦门卫视,https://live.264788.xyz/channel/xiamenweishi?streamid=2803b9c896a2dce42019b197d39226ec&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+厦门卫视,https://live.264788.xyz/channel/xiamenweishi?streamid=59b4bebbc553075be2ddecfe210b863a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 兵团卫视,http://tv.sohu.blog/d/mg.php?id=956923145
 兵团卫视,http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
 兵团卫视,http://111.56.90.5/000000000000/5000000006000040020/index.m3u8
