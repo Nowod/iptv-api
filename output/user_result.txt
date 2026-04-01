@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-01 02:00:52,http://tv.sohu.blog/d/mg.php?id=608807420
+2026-04-02 01:53:17,http://tv.sohu.blog/d/mg.php?id=608807420
 
 央视频道,#genre#
 CCTV-1,http://tv.sohu.blog/d/mg.php?id=608807420
@@ -94,8 +94,8 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CCTV-17,http://111.56.90.5/000000000000/5000000011000288014/index.m3u8
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
-CCTV-4K,http://111.56.90.48/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
 CCTV-4K,http://111.56.90.50/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
+CCTV-4K,http://111.56.90.48/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
 CCTV-4K,http://223.95.198.3:8000/hls/18/index.m3u8
 CCTV-8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV-8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
@@ -107,10 +107,10 @@ CCTV-8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
-浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
-浙江卫视,http://38.75.136.137:98/gslb/dsdqca/zjwshd.m3u8?auth=test20251009
-浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
@@ -221,7 +221,7 @@ CCTV-8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
 山东卫视,http://111.56.90.5/000000000000/5000000004000020424/index.m3u8
 山东卫视,http://111.56.90.5/000000000000/1000000005000265019/1.m3u8
-山西卫视,http://120.76.248.139/live/bfgd/4200000109.m3u8
+山西卫视,http://111.56.90.5/000000000000/5000000006000040023/1.m3u8
 山西卫视,https://stream1.freetv.fun/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.m3u8
 山西卫视,https://stream1.freetv.fun/36bb758e23402d833fc14af62d7752aa20e0d7fd62f95ddfe677092846d8e2b6.m3u8
 山西卫视,https://stream1.freetv.fun/85dbca6cc8baa7eac22fafd5d5a6d1c20017747e57fdb5df7c7dbdbbc4543b0e.m3u8
@@ -230,7 +230,7 @@ CCTV-8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-陕西卫视,http://120.76.248.139/live/bfgd/4200000512.m3u8
+陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 四川卫视,http://111.56.90.5/000000000000/5000000004000006119/index.m3u8
 四川卫视,http://111.56.90.5/000000000000/1000000002000016825/1.m3u8
