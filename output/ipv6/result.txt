@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-08 02:02:38,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
+2026-04-09 02:10:54,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 
 央视频道,#genre#
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
@@ -99,6 +99,7 @@ CCTV-4K,https://stream1.freetv.fun/b3dc6e90e9e1f1e6ca0bb3b4f997f658bdef2b736c321
 CCTV-4K,https://stream1.freetv.fun/57ee418247cab20a7531618328cf657d75f472563a962649fc8a6e073568a1ae.ctv
 CCTV-8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV-8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
+CCTV-8K,https://stream1.freetv.fun/f00b65a999808a7628f919dd8b21733a26889424542698837046d0b68e4c75e4.ctv
 
 卫视频道,#genre#
 广东卫视,https://stream1.freetv.fun/6787e35b48df7529fb25c86cd92936335e75d68881015ff99c3e969f57177987.m3u8
@@ -281,6 +282,8 @@ CCTV-8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 兵团卫视,https://stream1.freetv.fun/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.m3u8
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
 兵团卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000381024/main.m3u8?stbid=
+
+地方频道,#genre#
 
 春晚频道,#genre#
 

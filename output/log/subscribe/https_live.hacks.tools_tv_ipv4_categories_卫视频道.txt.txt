@@ -2,8 +2,8 @@
 åäº¬å«è§,http://111.56.90.5/000000000000/1000000005000265027/1.m3u8
 åäº¬å«è§,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 åäº¬å«è§,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+åäº¬å«è§,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 ä¸æ¹å«è§,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-ä¸æ¹å«è§,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 ä¸åå«è§,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 ä¸åå«è§,http://120.76.248.139/live/bfgd/4200000483.m3u8
 ä¸åå«è§,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
@@ -28,6 +28,7 @@
 æ¹åå«è§,http://74.91.26.218:82/live/hnwshd.m3u8
 æ¹åå«è§,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 æ¹åå«è§,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+æ¹åå«è§,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 æ¹åå«è§,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 è¾½å®å«è§,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 å®å¤å«è§,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
@@ -36,8 +37,8 @@
 éæµ·å«è§,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 ä¸æ²å«è§,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 å±±ä¸å«è§,http://120.76.248.139/live/bfgd/4200000099.m3u8
-å±±è¥¿å«è§,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 å±±è¥¿å«è§,http://111.56.90.5/000000000000/5000000006000040023/1.m3u8
+å±±è¥¿å«è§,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 å±±è¥¿å«è§,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 éè¥¿å«è§,http://107.150.60.122/live/snwshd.m3u8
 éè¥¿å«è§,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
@@ -59,7 +60,6 @@
 éåºå«è§,http://107.150.60.122/live/cqwshd.m3u8
 éåºå«è§,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 ä¸æ¹å«è§,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-ä¸æ¹å«è§,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 é»é¾æ±å«è§,http://120.76.248.139/live/bfgd/4200000095.m3u8
 é»é¾æ±å«è§,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 åèå¤å«è§,http://111.56.90.5/000000000000/5559214655508729688/1.m3u8
@@ -68,4 +68,4 @@
 ä¸æ¹å«è§4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 åå·å«è§4K,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 èå·4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-UpdateTime: 2026-04-08 00:19:20
+UpdateTime: 2026-04-09 00:19:50
