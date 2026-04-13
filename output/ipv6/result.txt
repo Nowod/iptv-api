@@ -1,17 +1,11 @@
 🕘️更新时间,#genre#
-2026-04-13 15:05:34,https://stream1.freetv.fun/ba0cb96ba000eebc5a91bd4ffcaed72334b786255d15f293d5f09f19c344cc0f.m3u8
+2026-04-13 21:56:04,url
 
 央视频道,#genre#
 
 卫视频道,#genre#
-海峡卫视,https://stream1.freetv.fun/ba0cb96ba000eebc5a91bd4ffcaed72334b786255d15f293d5f09f19c344cc0f.m3u8
-海峡卫视,https://stream1.freetv.fun/aac46a5aacdf68f29a5a52c4fa291258a7e225175b6872d6d4dbc7d8969df603.m3u8
-海峡卫视,https://stream1.freetv.fun/1b2a22c4180b00b44a1da9405f12c49e0f59a8c9442f06e77020ab4d5f16b1db.m3u8
-海峡卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
-海峡卫视,http://goo.bkpcp.top/mg/hxws
 
 地方频道,#genre#
-北京财经,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
 
 春晚频道,#genre#
 
